@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidProject</string>
+    <string name="next_button">Go to Second Activity</string>
+    <string name="back_button">Back to Main</string>
+</resources>
